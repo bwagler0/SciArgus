@@ -8,3 +8,7 @@ Brendan Moynahan
 Thomas Stephenson
 Kevin White
 Anna Ortega
+Teagan A. Hayes
+Tabitha A. Graves
+L. Embere Hall
+Samantha P.H. Dwinnell
