@@ -14,7 +14,7 @@ Research on new advances in movement ecology of wildlife (including birds and ma
 Papers that inform wildlife and natrural resource management including research that informs or evaulates management decisions or actiosn such as hunting seasons, seasonal closures, protection of seasonal ranges, selective culling, habitat restoration, habitat imporovment projects, controled burns, grazing regimes, sustainable ranching practices, conservation easments, or others. Topics shoudl include evaluation of management and conservation actions or research with strong implications. 
 
 #Natural Resource Extraction
-Research that informs the effects of natural resource extraction (e.g. critical minteral mining, renewable energy, fossil fuels) on wildlife or landscapes. Can inlcude papers that inform policy decisions and those that are focused on the effects of habitat alteration.  
+Research that informs the effects of natural resource extraction (e.g. critical minteral mining, renewable energy, fossil fuels) on wildlife or landscapes. Can inlcude papers that inform policy decisions and those that are focused on the effects of habitat alteration. Specifically interested in the effects of natural resoure extraction on ecological processess and landscape disturbance.
 
 #Artificial Intelligence
 Research pushing the boundries in how we can use AI to inform ecology and how it apply it to make modeling more efficent. Can include any applications of AI. 
