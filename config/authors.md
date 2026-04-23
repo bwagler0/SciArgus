@@ -12,3 +12,11 @@ Teagan A. Hayes
 Tabitha A. Graves
 L. Embere Hall
 Samantha P.H. Dwinnell
+Roland Kays
+Briana Abrahms
+Simona Picardi
+Roxanne Beltran
+Justine Becker
+Kristin Barker
+Kristin Denryter
+Arthur Middleton
