@@ -17,4 +17,4 @@ Papers that inform wildlife and natrural resource management including research 
 Research that informs the effects of natural resource extraction (e.g. critical minteral mining, renewable energy, fossil fuels) on wildlife or landscapes. Can inlcude papers that inform policy decisions and those that are focused on the effects of habitat alteration. Specifically interested in the effects of natural resoure extraction on ecological processess and landscape disturbance.
 
 #Artificial Intelligence
-Research pushing the boundries in how we can use AI to inform ecology and how it apply it to make modeling more efficent. Can include any applications of AI. 
+Research pushing the boundries in how we can use AI and LLMs to inform ecology and how it apply it to make modeling more efficent. Can include any applications of AI including ethics and best practaces. 
